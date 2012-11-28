@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "test 1"
-description: ""
+title: "First post"
+description: "Getting started"
 category: 
 tags: []
 ---
 {% include JB/setup %}
 
-This is a sample post.
+First post
