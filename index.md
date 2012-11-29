@@ -4,9 +4,7 @@ title: Welcome
 ---
 {% include JB/setup %}
 
-## About
 You've stumbled on the Internet home of Kevin Iverson.  
-
 
 ## Blog
 
