@@ -7,4 +7,5 @@ tags: []
 ---
 {% include JB/setup %}
 
-First post
+First post.
+
