@@ -13,8 +13,8 @@ better relationship with the food they eat even though we live in an urban area.
 
 As for many things the Internet proved to be an invaluable source.  In particular I found the
 Chicago Green Roof Growers (http://greenroofgrowers.blogspot.com/) blog particularly helpful.  Reading 
-through their posts I was introduced to Sub Irrigation Planters that you can make your own.  Some further
-investigation into the concept uncovered some folks in Australia who are using the concept in raised bed gardens
+through their posts I was introduced to Sub Irrigation Planters that you can make on your own.  Some further
+investigation into the concept uncovered some folks in Australia who are using it in raised bed gardens
 which seemed like a perfect fit for the small strips of land I have on the north and south sides of my garage  
 
 After spending two weekends with some trips to the Home Depot and bonding with power tools I had two raised beds
